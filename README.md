@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Alura Store" title="Alura Store" src="#" width="200px" />
+    Alura Store
 </h1>
 
 <h4 align="center">
